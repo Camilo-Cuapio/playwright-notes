@@ -24,5 +24,18 @@ CURSO DE PLAYWRIGHT
 -Ejecucion y debugging de pruebas
 ---
 ## Modulo 3 : Explorando las APIs de Playwright
-1. 
+1. **Contextos y paginas**
+-Crar y manejar multiples contextos de navegar
+-Nuevas capacidades en la version 2025 (hipoteticas mejoras de seguridad o performance)
+2. **Selectores y acciones basicas**
+-Manejo de selectores CSS,XPath, text-based, etc.
+-Ineraccion con la pagina (clicks, inputs de texto, drag & drop)
+3. **Espacios de trabajo con iframes y ventanas emergentes**
+-Localización de elementos de iframes
+-Manejo y sincronizacion de ventanas secundarias
+4. **Manejo de eventos**
+-Esperas explicitas e implícitas
+-Esperas condicionales (waitForNavigation, waitForSelector, etc.)
+---
+
 
