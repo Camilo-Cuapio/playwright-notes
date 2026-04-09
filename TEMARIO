@@ -1,0 +1,28 @@
+CURSO DE PLAYWRIGHT
+## Modulo 1: Introducion y fundamentos
+1. **Que es Palaywright?**
+2. **Arquitectura y principios de fundamentos**
+-Conceptos de headless y headful
+-Browsers soportados y evolucion /Chromium, Firefox, WebKit, Edge)
+3. **Casos de uso tipicos** 
+-Testing E2E(end-to-end)..
+-Pruebas de regresion y smoke tests
+-Integracion con entornos de CI/CD
+-Web scraping
+---
+## Modulo 2: Configuracion de Entorno
+1. **Instalacion de Playwright**
+-Requisitos de software (Node.js, navegadores, etc.)
+-Configuracion de Windows, macOS Y Linux
+2. **Estructura basica del proyecto**
+-Configuracion inicial con npm o yarn
+-Uso de TypeScript o JavaScript
+-Organizacion de carpetas o ficheros de test
+3. **Playwright CLI (Command Line Interface)** 
+-Comandos principales
+-Creacion de proyectos con configuraciones por defecto
+-Ejecucion y debugging de pruebas
+---
+## Modulo 3 : Explorando las APIs de Playwright
+1. 
+
